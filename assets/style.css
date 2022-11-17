@@ -1,0 +1,34 @@
+
+*{
+    background-color: gray;
+}
+
+.questions{
+
+background-color: rgba(9, 105, 71, 0.243);
+text-align: center;
+}
+.answer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.start{
+   background-color: rgb(111, 13, 2);
+
+}
+.time{
+    text-align: center;   
+}
+.trackedscore{
+    text-align: center;
+    font-size: 100px;
+}
+.gamesscore{
+    text-align: center;
+    font-size: 100px;
+}
+#show{
+    color: azure;
+}
